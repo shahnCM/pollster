@@ -1,8 +1,6 @@
-## pollster
+# Pollster
 *A simple polling application written on Python Django*
 ---
-[My Portfolio](https://shahncm.github.io)
-
 
 * Add/Edit Questions and choices from admin panel
 * Edit Votes from admin panel
